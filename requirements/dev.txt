@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+chatterbot
+chatterbot-corpus
+nltk
+scikit-learn
+flask
+requests
