@@ -1,6 +1,17 @@
 # PRELPER
 
+Offline programming assistant
+
 This project includes code cloned from multiple repositories in the "30-seconds-of-code" series, created by [Chalarangelo](https://github.com/Chalarangelo).
+
+## Usage
+
+you can either install prelper with pip or with vscode.
+To use it with vscode, you have to have already installed it with pip.
+
+### Installation with pip
+
+### Installation with vscode
 
 ## Sources
 
