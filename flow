@@ -1,0 +1,5 @@
+INTENDED USAGE
+
+prelper chat "How are you doing today"
+prelper suggest "How to install github copilot cli"
+prelper complete "code in prelper.go"
